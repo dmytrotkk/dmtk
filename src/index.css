@@ -18,3 +18,40 @@ body {
 .date {
   margin-bottom: -10px;
 }
+
+
+@font-face {
+  font-family: geist;
+  src: url(Geist-Black.otf);
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: geist;
+  src: url(Geist-Bold.otf);
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: geist;
+  src: url(Geist-SemiBold.otf);
+  font-weight: 600;
+}
+
+
+@font-face {
+  font-family: geist;
+  src: url(Geist-Medium.otf);
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: geist;
+  src: url(Geist-Regular.otf);
+  font-weight: 400;
+}
+
+
+p {
+  font-family: geist;
+}
